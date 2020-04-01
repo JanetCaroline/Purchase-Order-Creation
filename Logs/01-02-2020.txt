@@ -1,0 +1,108 @@
+﻿02/01/2020 08:51:40 Extracting Values from the Queue..
+02/01/2020 08:51:40 PR Number : PR-001758 Software : Adobe Acrobat Pro V.17 Serial No : 1018-1649-7500-4208-3815-1280 Incident ID : IM3658589 Account Number : 80933-53290
+02/01/2020 08:51:40 Opening Salesforce Sandbox App...
+02/01/2020 08:52:11 Navigating to Partner Software Requests...
+02/01/2020 08:53:48 Extracting Values from the Queue..
+02/01/2020 08:53:48 PR Number : PR-000008 Software : Adobe Acrobat Pro V.17 Serial No : 1018-1649-7500-4208-3815-1280 Incident ID : IM3658589 Account Number : 80933-53290
+02/01/2020 08:53:48 Opening Salesforce Sandbox App...
+02/01/2020 08:54:05 Logged into Salesforce Successfully
+02/01/2020 08:54:05 Navigating to Partner Software Requests...
+*********PR & PO Creation Process Initiated*********
+02/01/2020 08:54:41 Queue Result : {"payload_bytes":273,"redelivered":False,"exchange":"","routing_key":"pocreation","message_count":0,"properties":{"delivery_mode":1,"headers":{}},"payload":"{"requester": "Micaela Steele","pr": "PR-000008","computer": "L-2KC0KR2","softwares": "{"software": "Adobe Acrobat Pro V.17","serialnumber": "1018-1649-7500-4208-3815-1280"}","returncode": "1","message": "valid","incidentid": "IM3658589","account": "80933-53290"}","payload_encoding":"string"}
+02/01/2020 08:54:41 Navigating to Purchase Request Page
+02/01/2020 08:54:41 CatalogName  : Adobe Acrobat Pro 17 Professinal (Distiller inlcluded)
+02/01/2020 08:54:41 Authorized Software
+02/01/2020 08:54:41 Searching PR Number : PR-000008
+02/01/2020 08:54:44 PR Search Available : True
+02/01/2020 08:55:22 PR does not Exist
+02/01/2020 08:55:23 Extracting Values from the Queue..
+02/01/2020 08:55:23 PR Number : PR-000008 Software : Adobe Acrobat Pro V.17 Serial No : 1018-1649-7500-4208-3815-1280 Incident ID : IM3658589 Account Number : 80933-53290
+02/01/2020 08:55:23 CatalogName  : Adobe Acrobat Pro 17 Professinal (Distiller inlcluded)
+02/01/2020 08:55:23 Authorized Software
+02/01/2020 08:55:23 Searching PR Number : PR-000008
+02/01/2020 08:55:26 PR Search Available : True
+02/01/2020 08:59:24 Extracting Values from the Queue..
+02/01/2020 08:59:24 PR Number : PR-000008 Software : Adobe Acrobat Pro V.17 Serial No : 1018-1649-7500-4208-3815-1280 Incident ID : IM3658589 Account Number : 80933-53290
+02/01/2020 08:59:24 Opening Salesforce Sandbox App...
+02/01/2020 08:59:41 Logged into Salesforce Successfully
+02/01/2020 08:59:41 Navigating to Partner Software Requests...
+*********PR & PO Creation Process Initiated*********
+02/01/2020 09:00:14 Queue Result : {"payload_bytes":273,"redelivered":False,"exchange":"","routing_key":"pocreation","message_count":0,"properties":{"delivery_mode":1,"headers":{}},"payload":"{"requester": "Micaela Steele","pr": "PR-000008","computer": "L-2KC0KR2","softwares": "{"software": "Adobe Acrobat Pro V.17","serialnumber": "1018-1649-7500-4208-3815-1280"}","returncode": "1","message": "valid","incidentid": "IM3658589","account": "80933-53290"}","payload_encoding":"string"}
+02/01/2020 09:00:14 Navigating to Purchase Request Page
+02/01/2020 09:00:14 CatalogName  : Adobe Acrobat Pro 17 Professinal (Distiller inlcluded)
+02/01/2020 09:00:14 Authorized Software
+02/01/2020 09:00:14 Searching PR Number : PR-000008
+02/01/2020 09:00:18 PR Search Available : True
+02/01/2020 09:00:55 PR does not Exist
+02/01/2020 09:00:56 Extracting Values from the Queue..
+02/01/2020 09:00:56 PR Number : PR-000008 Software : Adobe Acrobat Pro V.17 Serial No : 1018-1649-7500-4208-3815-1280 Incident ID : IM3658589 Account Number : 80933-53290
+02/01/2020 09:00:56 CatalogName  : Adobe Acrobat Pro 17 Professinal (Distiller inlcluded)
+02/01/2020 09:00:56 Authorized Software
+02/01/2020 09:00:56 Searching PR Number : PR-000008
+02/01/2020 09:00:59 PR Search Available : True
+02/01/2020 22:27:47 Extracting Values from the Queue..
+02/01/2020 22:27:47 PR Number : PR-000008 Software : Adobe Acrobat Pro V.17 Serial No : 1018-1649-7500-4208-3815-1280 Incident ID : IM3658589 Account Number : 80933-53290
+02/01/2020 22:27:47 Opening Salesforce Sandbox App...
+02/01/2020 22:30:06 Extracting Values from the Queue..
+02/01/2020 22:30:06 PR Number : PR-000008 Software : Adobe Acrobat Pro V.17 Serial No : 1018-1649-7500-4208-3815-1280 Incident ID : IM3658589 Account Number : 80933-53290
+02/01/2020 22:30:07 Opening Salesforce Sandbox App...
+02/01/2020 22:30:38 Logged into Salesforce Successfully
+02/01/2020 22:30:38 Navigating to Partner Software Requests...
+*********PR & PO Creation Process Initiated*********
+02/01/2020 22:31:28 Queue Result : {"payload_bytes":273,"redelivered":False,"exchange":"","routing_key":"pocreation","message_count":0,"properties":{"delivery_mode":1,"headers":{}},"payload":"{"requester": "Micaela Steele","pr": "PR-000008","computer": "L-2KC0KR2","softwares": "{"software": "Adobe Acrobat Pro V.17","serialnumber": "1018-1649-7500-4208-3815-1280"}","returncode": "1","message": "valid","incidentid": "IM3658589","account": "80933-53290"}","payload_encoding":"string"}
+02/01/2020 22:31:28 Navigating to Purchase Request Page
+02/01/2020 22:31:28 CatalogName  : Adobe Acrobat Pro 17 Professinal (Distiller inlcluded)
+02/01/2020 22:31:29 Authorized Software
+02/01/2020 22:31:29 Searching PR Number : PR-000008
+02/01/2020 22:31:32 PR Search Available : True
+02/01/2020 22:32:11 PR does not Exist
+02/01/2020 22:32:12 Extracting Values from the Queue..
+02/01/2020 22:32:12 PR Number : PR-000008 Software : Adobe Acrobat Pro V.17 Serial No : 1018-1649-7500-4208-3815-1280 Incident ID : IM3658589 Account Number : 80933-53290
+02/01/2020 22:32:12 CatalogName  : Adobe Acrobat Pro 17 Professinal (Distiller inlcluded)
+02/01/2020 22:32:12 Authorized Software
+02/01/2020 22:32:12 Searching PR Number : PR-000008
+02/01/2020 22:32:15 PR Search Available : True
+02/01/2020 22:32:54 PR does not Exist
+02/01/2020 22:32:54 Extracting Values from the Queue..
+02/01/2020 22:32:54 PR Number : PR-000008 Software : Adobe Acrobat Pro V.17 Serial No : 1018-1649-7500-4208-3815-1280 Incident ID : IM3658589 Account Number : 80933-53290
+02/01/2020 22:32:54 CatalogName  : Adobe Acrobat Pro 17 Professinal (Distiller inlcluded)
+02/01/2020 22:32:54 Authorized Software
+02/01/2020 22:32:54 Searching PR Number : PR-000008
+02/01/2020 22:36:02 Extracting Values from the Queue..
+02/01/2020 22:36:02 PR Number :  Software :  Serial No :  Incident ID :  Account Number : 
+02/01/2020 22:36:02 Opening Salesforce Sandbox App...
+02/01/2020 22:37:10 Extracting Values from the Queue..
+02/01/2020 22:37:10 PR Number :  Software :  Serial No :  Incident ID :  Account Number : 
+02/01/2020 22:37:10 Opening Salesforce Sandbox App...
+02/01/2020 22:40:00 Extracting Values from the Queue..
+02/01/2020 22:40:00 PR Number : PR-001728 Software : Adobe Acrobat Pro V.17 Serial No : 1018-1649-7500-4208-3815-1280 Incident ID : IM3658589 Account Number : 80933-53290
+02/01/2020 22:40:00 Opening Salesforce Sandbox App...
+02/01/2020 22:40:19 Logged into Salesforce Successfully
+02/01/2020 22:40:19 Navigating to Partner Software Requests...
+*********PR & PO Creation Process Initiated*********
+02/01/2020 22:40:55 Queue Result : {"payload_bytes":273,"redelivered":False,"exchange":"","routing_key":"pocreation","message_count":0,"properties":{"delivery_mode":1,"headers":{}},"payload":"{"requester": "Micaela Steele","pr": "PR-001728","computer": "L-2KC0KR2","softwares": "{"software": "Adobe Acrobat Pro V.17","serialnumber": "1018-1649-7500-4208-3815-1280"}","returncode": "1","message": "valid","incidentid": "IM3658589","account": "80933-53290"}","payload_encoding":"string"}
+02/01/2020 22:40:55 Navigating to Purchase Request Page
+02/01/2020 22:40:58 CatalogName  : Adobe Acrobat Pro 17 Professinal (Distiller inlcluded)
+02/01/2020 22:40:58 Authorized Software
+02/01/2020 22:40:58 Searching PR Number : PR-001728
+02/01/2020 22:41:03 PR Search Available : True
+02/01/2020 22:41:32 PO Files Deleted From PDF Folder
+02/01/2020 22:41:32 Creating New Purchase Order
+02/01/2020 22:41:43 PO Exist : True
+02/01/2020 22:41:43 PO already exist for the given PR
+02/01/2020 22:41:44 Extracting Values from the Queue..
+02/01/2020 22:41:44 PR Number : PR-001728 Software : Adobe Acrobat Pro V.17 Serial No : 1018-1649-7500-4208-3815-1280 Incident ID : IM3658589 Account Number : 80933-53290
+02/01/2020 22:41:44 CatalogName  : Adobe Acrobat Pro 17 Professinal (Distiller inlcluded)
+02/01/2020 22:41:44 Authorized Software
+02/01/2020 22:41:44 Searching PR Number : PR-001728
+02/01/2020 22:41:49 PR Search Available : True
+02/01/2020 22:42:17 PO Files Deleted From PDF Folder
+02/01/2020 22:42:17 Creating New Purchase Order
+02/01/2020 22:42:27 PO Exist : True
+02/01/2020 22:42:27 PO already exist for the given PR
+02/01/2020 22:42:27 Extracting Values from the Queue..
+02/01/2020 22:42:27 PR Number : PR-001728 Software : Adobe Acrobat Pro V.17 Serial No : 1018-1649-7500-4208-3815-1280 Incident ID : IM3658589 Account Number : 80933-53290
+02/01/2020 22:42:28 CatalogName  : Adobe Acrobat Pro 17 Professinal (Distiller inlcluded)
+02/01/2020 22:42:28 Authorized Software
+02/01/2020 22:42:28 Searching PR Number : PR-001728
+02/01/2020 22:42:32 PR Search Available : True
